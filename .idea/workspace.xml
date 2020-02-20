@@ -18,14 +18,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Xyvj3XYoIF3j1Y4jpJJhbvQaRD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../p1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -102,7 +104,7 @@
       <workItem from="1582031324303" duration="17227000" />
       <workItem from="1582059423856" duration="16308000" />
       <workItem from="1582145730969" duration="8802000" />
-      <workItem from="1582205911338" duration="1703000" />
+      <workItem from="1582205911338" duration="5551000" />
     </task>
     <servers />
   </component>
