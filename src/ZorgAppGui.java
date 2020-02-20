@@ -15,9 +15,10 @@ public  class ZorgAppGui  extends javax.swing.JFrame {
     protected String StringShowInfo2;
     public int k;
 
-    public ZorgAppGui (Profile profile)
+    public ZorgAppGui ()
 
     {
+        Profile profile = new Profile("Anna", "Janssen", 32, 56.00, 1.75);
 
         JMenu mymenu=new JMenu("mijn menu");
 
